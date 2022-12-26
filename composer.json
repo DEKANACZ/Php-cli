@@ -1,0 +1,19 @@
+{
+    "name": "dekanac/phpcli",
+    "description": "simple php cli with curl",
+    "type": "project",
+    "license": "gpl",
+    "autoload": {
+        "psr-4": {
+            "Dekanac\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "DEKANACZ",
+            "email": "dekanac344a@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
